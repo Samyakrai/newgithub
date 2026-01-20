@@ -1,5 +1,3 @@
-<<<<<<< HEAD
+
 sybau1
-=======
-sybau2
->>>>>>> rohit
+
